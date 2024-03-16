@@ -1,0 +1,6 @@
+@Mission10_Ronstadt_HostAddress = http://localhost:5209
+
+GET {{Mission10_Ronstadt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
